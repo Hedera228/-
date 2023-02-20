@@ -1,4 +1,8 @@
 #!name=FunMedia分流
 #!desc=使plex及funmedia走国内媒体
+
 [Rule]
-RULE-SET,https://gist.githubusercontent.com/IlluminateDarkheat/d8d02c34cf2e4f96f61329d5946f8dda/raw/FunMedia.list,Domestic
+DOMAIN, funmedia.10101.io,Domestic
+DOMAIN-SUFFIX, plex.direct,Domestic
+DOMAIN-SUFFIX, plex.tv,Domestic
+IP-CIDR, 89.58.46.70/32, no-resolve,Domestic
