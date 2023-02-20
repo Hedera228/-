@@ -1,0 +1,4 @@
+#!name=FunMedia分流
+#!desc=使plex及funmedia走国内媒体
+[Rule]
+RULE-SET,https://gist.githubusercontent.com/IlluminateDarkheat/d8d02c34cf2e4f96f61329d5946f8dda/raw/FunMedia.list,Domestic
