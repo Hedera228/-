@@ -6,4 +6,5 @@ DOMAIN, funmedia.10101.io,Domestic
 DOMAIN-SUFFIX, plex.direct,Domestic
 DOMAIN-SUFFIX, plex.tv,Domestic
 DOMAIN-SUFFIX, jable.tv,Proxy
+DOMAIN-SUFFIX, teslamate.dhuar.com,Domestic
 IP-CIDR, 89.58.46.70/32, no-resolve,Domestic
